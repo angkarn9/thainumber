@@ -1,2 +1,2 @@
 # Thai_Number_Go
-Practice Golang With Decode Thai Number
+Practice Golang With Decode Thai Numbers
